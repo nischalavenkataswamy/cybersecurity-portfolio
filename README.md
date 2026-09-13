@@ -27,7 +27,7 @@ practical projects.
 
 ## Projects
 
-### 🔍 Splunk SOC Detection Lab
+### Splunk SOC Detection Lab
 [View Repository](../splunk-lab)
 
 Built a SIEM detection lab using Splunk Free 
@@ -43,7 +43,7 @@ Key highlights:
 
 ---
 
-### 🏛️ Active Directory Attack and Defence
+### Active Directory Attack and Defence
 [View Repository](../active-directory-lab)
 
 Documented AD attack techniques and detection 
@@ -57,7 +57,7 @@ Key highlights:
 
 ---
 
-### 🐍 Python Security Automation
+### Python Security Automation
 [View Repository](../python-for-security)
 
 Python scripts automating common SOC tasks 
@@ -71,7 +71,7 @@ Key highlights:
 
 ---
 
-### 🎯 Threat Hunting Exercises
+### Threat Hunting Exercises
 [View Repository](../threat-hunting)
 
 Hypothesis-driven threat hunting exercises 
@@ -85,7 +85,7 @@ Key highlights:
 
 ---
 
-### 🖥️ SOC Home Lab
+### SOC Home Lab
 [View Repository](../soc-home-lab)
 
 Complete SOC environment setup and 
@@ -136,10 +136,10 @@ incident types:
 ---
 
 ## Connect With Me
-- 📍 Location: Bengaluru, India
-- 🎯 Target roles: SOC Analyst, 
+- Location: Bengaluru, India
+- Target roles: SOC Analyst, 
   Security Analyst, Threat Analyst
-- 💼 LinkedIn: [www.linkedin.com/in/nischala-venkataswamy]
+- LinkedIn: [www.linkedin.com/in/nischala-venkataswamy]
 
 ---
 
